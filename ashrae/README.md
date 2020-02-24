@@ -10,6 +10,3 @@ ashrae_feature_engineering.ipynb
 ### ・Predictive Modeling編
 ashrae_predictive_modeling.ipynb
 
-おそらく.ipynbファイルはgithub上では開けないのではないかと思います。<br>
-その場合は、以下のURLのnbviewerに.ipynbのファイルのURLをコピペして見てみてください。<br>
-https://nbviewer.jupyter.org/
