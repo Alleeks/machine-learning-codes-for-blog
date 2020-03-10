@@ -5,16 +5,20 @@ Alleeksテックブログ機械学習編のサンプルコードです
 ```
 .
 ├── README.md
-├── titanic
+├── titanic(テーブルコンペ)
 │   ├── README.md
 │   ├── titanic_eda.ipynb
 │   ├── titanic_feature_engineering.ipynb
 │   └── titanic_modeling.ipynb
-└── ashrae
+├── ashrae（テーブルコンペ・時系列）
+│  ├── README.md
+│  ├── ashrae_eda.ipynb
+│  ├── ashrae_feature_engineering.ipynb
+│  └── ashrae_modeling.ipynb
+└── aptos（画像コンペ）
     ├── README.md
-    ├── ashrae_eda.ipynb
-    ├── ashrae_feature_engineering.ipynb
-    └── ashrae_modeling.ipynb
+    ├── aptos_eda.ipynb
+    └── aptos_modeling.ipynb
 ```
 
 ## Others
